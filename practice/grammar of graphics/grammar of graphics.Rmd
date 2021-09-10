@@ -12,15 +12,15 @@ knitr::opts_chunk$set(echo = TRUE)
 # ggplot(data = <DATA>) +
 #   <GEOM_FUNCTION>(mapping = aes(<MAPPINGS>))
 
-```{r cars}
+```{r geom_point}
 library(tidyverse)
 ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) +
   geom_point(mapping = aes(color = class))
 ```
 
-```{r pressure, echo=FALSE}
+```{r geom_smooth}
 ggplot(data = mpg) +
   geom_smooth(mapping = aes(x = displ, y = hwy, linetype = drv))
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Note that the `eho = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
