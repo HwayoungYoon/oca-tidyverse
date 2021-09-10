@@ -6,6 +6,13 @@
 
 ✨ [Tidyverse 데이터 과학 소개](https://drive.google.com/file/d/1AFbgEz_hTackz9wzVgfKZ50CKZCtuCXs/view?usp=sharing)
 
+## 2021 오픈소스 컨트리뷰션 아카데미 일정
+| <center> 날짜 </center> | <center> 일정 </center> |
+|:---:|:---:|
+| <center> 2021.08.07 </center> | <center> 발대식 </center> |
+| <center> 2021.09.06 </center> | <center> Masters 참가자 발표 </center> |
+| <center> 2021.09.11 </center> | <center> Midterm Recap </center> |
+
 ## pkg_doc
 > ```
 > Error in loadNamespace(name) : 
