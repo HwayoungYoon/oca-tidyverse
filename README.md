@@ -6,6 +6,8 @@
 
 ✨ [Tidyverse 데이터 과학 소개](https://drive.google.com/file/d/1AFbgEz_hTackz9wzVgfKZ50CKZCtuCXs/view?usp=sharing)
 
+💎 [Midterm Recap 발표자료](https://docs.google.com/presentation/d/1LH396aFVLEH3Pr_WQgeQeVTXvI95hyL7/edit?usp=sharing&ouid=102951670178460961840&rtpof=true&sd=true)
+
 ## 2021 오픈소스 컨트리뷰션 아카데미 일정
 | <center> 날짜 </center> | <center> 일정 </center> |
 |:---:|:---:|
