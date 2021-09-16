@@ -2,6 +2,7 @@
 server <- function(input, output, session) {
     
     # 제어 결과 필터링 리액티브 데이터프레임 ----------------------------
+    ## 필터링 된 데이터의 일부부
     filtered_deals <- reactive({
         req(input$fromDate)
         
