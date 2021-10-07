@@ -14,6 +14,8 @@
 | <center> 2021.08.07 </center> | <center> 발대식 </center> |
 | <center> 2021.09.06 </center> | <center> Masters 참가자 발표 </center> |
 | <center> 2021.09.11 </center> | <center> Midterm Recap </center> |
+| <center> 2021.10.23 </center> | <center> 발표평가 </center> |
+| <center> 2021.11.19 </center> | <center> 컨트리뷰션 종료 </center> |
 
 ## pkg_doc
 > ```
