@@ -14,7 +14,7 @@
 | <center> 2021.08.07 </center> | <center> 발대식 </center> |
 | <center> 2021.09.06 </center> | <center> Masters 참가자 발표 </center> |
 | <center> 2021.09.11 </center> | <center> Midterm Recap </center> |
-| <center> 2021.10.23 </center> | <center> 발표평가 </center> |
+| <center> 2021.10.30 </center> | <center> 발표평가 </center> |
 | <center> 2021.11.19 </center> | <center> 컨트리뷰션 종료 </center> |
 
 ## pkg_doc
@@ -30,3 +30,6 @@
 * Grammar of Graphics
   * https://ilovedata.github.io/computing/r-visual-ggplot2.html
   * https://kerpect.tistory.com/122
+
+## kodlookr
+kodlookr 패키지 도움말 한글화 작업 튜토리얼 [자료](https://choonghyunryu.github.io/about_package/?fbclid=IwAR2nmTbOEPgPyHUhzfwi7OstFvPhFRUbTk00aYbL9epJiRV_7VMoN8DZbbI#1)
