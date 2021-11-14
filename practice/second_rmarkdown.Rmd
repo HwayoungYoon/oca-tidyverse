@@ -1,3 +1,14 @@
+---
+title: "두번째 R 마크다운"
+author: "윤화영"
+date: '2021 11 14 '
+output: 
+  word_document:
+    toc: true
+    toc_depth: 4
+    number_sections: true
+---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
